@@ -21,3 +21,7 @@ print("math sqrt =", sqrt(40))
 est = my_sqrt(72)
 print("est sqrt =", est)
 print("math sqrt =", sqrt(72))
+
+est = my_sqrt(91)
+print("est sqrt =", est)
+print("math sqrt =", sqrt(91))
